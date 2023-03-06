@@ -1,4 +1,67 @@
 *{
-    margin: 0px;
-    padding: 0px;
+    margin: 10;
+    padding: 0;
+}
+
+.navegacion{
+    background-color: burlywood;
+    padding: 60px 30px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 1430px;
+}
+.navegacion a{
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 18px;   
+    color: black;
+    
+}
+
+.logo{
+    background-color: gainsboro;
+    width: 520px;
+    justify-content: center;
+    margin-left: 10px;
+    }
+.menu{
+    background-color: yellow;
+    width: 1000px; 
+    
+}
+.imagencabeza{
+    background-image: url(Chalten.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    background-position: center;
+    height: 600px;
+    width: 1480px;
+    padding: 5px;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    
+ }   
+.quienessomos{
+    background-color: greenyellow;
+    padding: 60px 0;
+    display: flex;
+}
+
+.quienessomos h1{
+    font-size: 30px;
+}
+.quienessomos p{
+font-size: 20px;
+align-items: center;
+
+}
+.QueHacemos{
+background-color: bisque;
+padding: 30px 0;
+}
+.BlogdeNotas{
+background-color: beige;
+padding: 30px 0; 
 }
