@@ -108,7 +108,7 @@
     display: flex;
     flex-direction: column;
     background-position: center;
-    height: 690px;
+    height: 660px;
     font-size: 30px;
     font-weight: bold;
     color: rgb(196, 39, 39);
@@ -117,15 +117,15 @@
 .textqhacemos1{
     background-color: rgb(221, 221, 234);
     display: flex;
-    height: 650px;
+    height: 660px;
     
 }
 
 .textqhacemos2{
     background-color: rgb(221, 221, 234);
     text-align: center;
-    width: 740px;
-    height: 650px;
+    width: 700px;
+    height: 660px;
 
 }
 
@@ -143,17 +143,23 @@
 }
 
 .textqhacemos3{
-    background-color: rgb(221, 221, 234);
+    background-color: rgba(221, 221, 234);
     width: 740px;
-    height: 650px;
+    height: 660px;
 }
 
 .textqhacemos3 img{
     padding-top: 90px;
     padding-left: 40px;
 }
+
+.volverini{
+    background-color: rgba(221, 221, 234);
+    height: 70px;
+}
+
 .volverini1{
-    background-color: white;
+    background-color: whitesmoke;
     font-size: 15px;
     width: 137px;
     border-radius: 10px;
@@ -183,7 +189,7 @@
 
 .artestitulo{
     padding-top: 5px;
-    background-color: bisque;
+    background-color: rgb(237, 227, 215);
     }
 
 .artestitulo h1{
@@ -197,14 +203,22 @@
 }
 
 .artes{
-    padding-top: 20px;
-    background-color: bisque;
+    padding-top: 1px;
+    background-color: rgb(237, 227, 215);
     display: flex;
-    height: 500px;
+    height: 700px;
     align-items: flex-start;
     font-size: 15px;
     text-align: center;
+    padding-top: 140px;
 }
+
+.volverini2{
+    background-color: rgb(237, 227, 215);
+    height: 80px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    }
 
 .yoga{
     background-color: rgb(231, 231, 140);
@@ -230,7 +244,7 @@
     .btn-wsp{
         background-color: green;
         padding-top: 6px;
-        height: 63px;
+        height: 61px;
         width: 65px;
         bottom: 20px;
         right: 35px;
