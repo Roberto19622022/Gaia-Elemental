@@ -3,7 +3,7 @@
 }
 
 .navegacion{
-    background-color: rgb(207, 229, 222);
+    background-color: rgb(189, 223, 213);
     background-position: center;
     padding: 0px 20px;
     height: 60px;
@@ -13,7 +13,7 @@
 }
 
 .logo{
-    background-color: rgb(207, 229, 222);
+    background-color: rgb(189, 223, 213);
     width: 580px;
     justify-content: center;
     margin-left: 10px;
@@ -52,9 +52,7 @@
     display: flex;
     height: 620px;
     font-size: 20px;
-    
 }
-
 
 .bienvenidos{
     background-color: rgb(220, 235, 230);
@@ -82,14 +80,8 @@
 
 
 
-.somos img{
-    padding-top: 150px;
-    padding-left: 40px;
-
-}
-
 .quehacemos{
-    background-color: rgb(236, 222, 222);
+    background-color: rgb(220, 235, 230);
     display: flex;
     flex-direction: column;
     background-position: center;
@@ -100,46 +92,44 @@
 }
 
 .textqhacemos1{
-    background-color: rgb(221, 221, 234);
+    background-color: rgb(220, 235, 230);
     display: flex;
     height: 660px;
     
 }
 
 .textqhacemos2{
-    background-color: rgb(221, 221, 234);
+    background-color: rgb(220, 235, 230);
     text-align: center;
-    width: 700px;
+    width: 600px;
     height: 660px;
 
 }
 
 .textqhacemos2 h2{
-    color: rgb(199, 147, 147);
-    padding-top: 100px;
+    color: rgb(207, 104, 104);
+    padding-top: 85px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    
 }
 .textqhacemos2 p{
     color: black;
     font-size: 17px;
+    padding-right: 25px;
     margin-left: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .textqhacemos3{
-    background-color: rgba(221, 221, 234);
-    width: 740px;
+    background-color: rgba(220, 235, 230);
+    width: 690px;
     height: 660px;
 }
 
-.textqhacemos3 img{
-    padding-top: 90px;
-    padding-left: 40px;
-}
+
 
 .volverini{
-    background-color: rgba(221, 221, 234);
+    background-color: rgba(220, 235, 230);
     height: 70px;
 }
 
@@ -174,32 +164,28 @@
 
 .artestitulo{
     padding-top: 5px;
-    background-color: rgb(237, 227, 215);
+    background-color: rgb(228, 238, 235);
     }
 
 .artestitulo h1{
-    font-size: 60px;
+    font-size: 45px;
     text-align: center;
    }
 
-.artestitulo P{
-    margin-left: 92px;
-    font-size: 20px;
-}
-
 .artes{
     padding-top: 1px;
-    background-color: rgb(237, 227, 215);
+    background-color: rgb(228, 238, 235);
     display: flex;
-    height: 700px;
+    height: 1000px;
     align-items: flex-start;
     font-size: 15px;
     text-align: center;
-    padding-top: 140px;
+    padding-top: 30px;
+    padding-bottom: 60px;
 }
 
 .volverini2{
-    background-color: rgb(237, 227, 215);
+    background-color: rgb(228, 238, 235);
     height: 80px;
     padding-top: 10px;
     padding-bottom: 20px;
@@ -208,20 +194,20 @@
 .yoga{
     background-color: rgb(231, 231, 140);
     margin-left: 90px;
-    height: 280px;
-    width: 250px;
+    height: 330px;
+    width: 300px;
     
     }
 
 .yoga a{
-    font-size: 25px;
+    font-size: 35px;
     text-align: center;
     color: rgb(54, 111, 111);
     
 }
 
 .yoga img{
-    height: 220px;
+    height: 250px;
     width: 250px;
     padding-top: 5px;
     }
