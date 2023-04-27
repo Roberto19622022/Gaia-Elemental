@@ -157,19 +157,21 @@
     
 }
 
-.trabajamoscon{
-    background-color: burlywood;
-    height: 550px;
-}
-
 .artestitulo{
-    padding-top: 5px;
+    padding-top: 3px;
     background-color: rgb(228, 238, 235);
     }
 
 .artestitulo h1{
     font-size: 45px;
     text-align: center;
+    color:rgb(154, 13, 63)
+   }
+
+.artestitulo h2{
+    font-size: 30px;
+    text-align: center;
+    color:rgb(154, 13, 63)
    }
 
 .artes{
@@ -192,17 +194,17 @@
     }
 
 .yoga{
-    background-color: rgb(231, 231, 140);
-    margin-left: 90px;
+    background-color: rgb(230, 230, 159);
+    margin-left: 60px;
     height: 330px;
     width: 300px;
-    
+    border-radius: 8%;
     }
 
 .yoga a{
     font-size: 35px;
     text-align: center;
-    color: rgb(54, 111, 111);
+    color: rgb(70, 120, 120);
     
 }
 
@@ -211,87 +213,90 @@
     width: 250px;
     padding-top: 5px;
     }
-
-    .btn-wsp{
-        background-color: green;
-        padding-top: 6px;
-        height: 61px;
-        width: 65px;
-        bottom: 20px;
-        right: 35px;
-        line-height: 55px;
-        border-radius: 50px;
-        text-align: center;
-        font-size: 40px;
-        z-index: 100;
-        color: #FFFFFF;
-        position: fixed;
-        box-shadow: 0px 1px 5px rgba(0,0,0,0.3);
     
-    }
-    
-    .btn-wsp:hover{
-        text-decoration: none;
-        color: green;
-        background-color: #FFFFFF;
-    
-    }
-    
-
 .reiki{
-    background-color: rgb(190, 182, 182);
-    margin-left: 90px;
-    height: 280px;
-    width: 250px;
+    background-color: rgb(194, 186, 186);
+    margin-left: 60px;
+    height: 330px;
+    width: 300px;
+    border-radius: 8%;
     }
 
 .reiki a{
-    font-size: 25px;
+    font-size: 35px;
     text-align: center;
-    color: rgb(18, 94, 94);
+    color: rgb(70, 120, 120);
 }
 
 .reiki img{
-    height: 220px;
+    height: 250px;
     width: 250px;
+    padding-top: 5px;
 }
 
 .chikung{
-    background-color: rgb(201, 95, 130);
-    margin-left: 90px;
-    height: 280px;
-    width: 250px;
+    background-color: rgb(207, 131, 157);
+    margin-left: 60px;
+    height: 330px;
+    width: 300px;
+    border-radius: 8%;
     }
 
 .chikung a{
-    font-size: 25px;
+    font-size: 35px;
     text-align: center;
-    color: rgb(54, 111, 111);
+    color: rgb(70, 120, 120);
 }
 
 .chikung img{
-    height: 220px;
+    height: 250px;
     width: 250px;
+    padding-top: 5px;
 }
 
 .flores{
-    background-color: rgb(207, 162, 90);
-    margin-left: 90px;
-    height: 280px;
-    width: 250px;
+    background-color: rgb(207, 179, 133);
+    margin-left: 60px;
+    height: 330px;
+    width: 300px;
+    border-radius: 8%;
     }
 
 .flores a{
-    font-size: 25px;
+    font-size: 35px;
     text-align: center;
-    color: rgb(54, 111, 111);
+    color: rgb(70, 120, 120);
 }
 
 .flores img{
-    height: 220px;
+    height: 250px;
     width: 250px;
+    padding-top: 5px;
 }
 
+.btn-wsp{
+    background-color: green;
+    padding-top: 6px;
+    height: 61px;
+    width: 65px;
+    bottom: 20px;
+    right: 35px;
+    line-height: 55px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 40px;
+    z-index: 100;
+    color: #FFFFFF;
+    position: fixed;
+    box-shadow: 0px 1px 5px rgba(0,0,0,0.3);
+}
+
+.btn-wsp:hover{
+    text-decoration: none;
+    color: green;
+    background-color: #FFFFFF;
+
+}
 .Blogdenotas{
 background-color: rgb(196, 39, 39);
 padding: 3px 0; 
