@@ -1,0 +1,88 @@
+.navegacion{
+    background-color: rgb(203, 223, 216);
+    background-position: center;
+    padding: 0px 20px;
+    height: 60px;
+    display: flex;
+    
+}
+.logo{
+    background-color: rgb(203, 223, 216);
+    width: 580px;
+    justify-content: center;
+    margin-left: 10px;
+    padding-left: 50px;
+    }
+
+.logo h2{
+    padding-top: 5px;
+    margin-left: 80px;
+    font-weight: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.menu{
+    background-color: rgb(203, 223, 216);
+    text-align: center;
+    width: 290px;
+    justify-content: center;
+    margin-top: 22px;
+    font-size: 15px;  
+    }
+    .menu a{
+        text-decoration: none;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 25px;
+        color: black;
+        text-align: center;
+        font-weight: 450;
+        }
+    
+    .arte{
+        background-color: rgb(203, 223, 216);
+        text-align: center;
+        width: 290px;
+        justify-content: center;
+        margin-top: 22px;
+        font-size: 15px;  
+        }
+    
+        .arte a{
+        text-decoration: none;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 25px;
+        color: black;
+        text-align: center;
+        font-weight: 450;
+        }
+        .imagencabeza{
+            background-color: rgb(220, 235, 230);
+            display: flex;
+            height: 620px;
+            font-size: 20px;
+        }
+    
+        .bienvenidos{
+            background-color: rgb(220, 235, 230);
+            background-position: center;
+            text-align: center;
+            height: 620px;
+            width: 750px;
+            margin-right: 20px;
+        }
+        
+        .bienvenidos h3{
+            padding-top: 80px;
+            font-size: 25px;
+            color: rgb(207, 104, 104);
+            margin-left: 30px;
+            padding-right: 20px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        
+        .bienvenidos p{
+            padding-top: 10px;
+            padding-left: 50px;
+            font-size: 17px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
